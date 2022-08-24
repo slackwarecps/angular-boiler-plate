@@ -3,9 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## How to use this boiler plate
+It is simple! run the follow commands below..
 
-    npm install
-    ng server -o
+    $ npm install
+    $ ng server -o
 
 ## Development server
 
